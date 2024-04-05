@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "223011536261",
+    "project_id": "online-shopping-8e6ab",
+    "storage_bucket": "online-shopping-8e6ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223011536261:android:87d4855bd05cb34a72d8ec",
+        "android_client_info": {
+          "package_name": "com.example.easy_shopping_admin_panel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223011536261-8qts3qi1s7g31f3lekq4erf4ij0e6avh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzn-TOqnzEWsZkCskWLN_NRj1XY3A2-HU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223011536261-8qts3qi1s7g31f3lekq4erf4ij0e6avh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223011536261:android:a27c01a278ae099772d8ec",
+        "android_client_info": {
+          "package_name": "com.example.online_shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223011536261-r4fvvmro4vjp1r54h0feqt6gebfugg2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.online_shopping",
+            "certificate_hash": "50db87355864c4daa0ec8742dde0feaa4aa7a04e"
+          }
+        },
+        {
+          "client_id": "223011536261-8qts3qi1s7g31f3lekq4erf4ij0e6avh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzn-TOqnzEWsZkCskWLN_NRj1XY3A2-HU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223011536261-8qts3qi1s7g31f3lekq4erf4ij0e6avh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
